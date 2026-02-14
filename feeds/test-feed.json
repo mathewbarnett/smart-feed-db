@@ -14,10 +14,15 @@
       "id": "3",
       "title": "Entry 3",
       "url": "https://example.com/3"
+    },
+    {
+      "id": "4",
+      "title": "Entry 4",
+      "url": "https://example.com/4"
     }
   ],
   "feedId": "test-feed",
-  "lastUpdated": "2026-02-14T06:17:47.402Z",
+  "lastUpdated": "2026-02-14T12:48:35.731Z",
   "primaryUrl": "https://example.com",
   "schemaVersion": 1,
   "title": "Test Feed"
