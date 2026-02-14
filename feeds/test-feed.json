@@ -1,0 +1,19 @@
+{
+  "entries": [
+    {
+      "id": "1",
+      "title": "Entry 1",
+      "url": "https://example.com/1"
+    },
+    {
+      "id": "2",
+      "title": "Entry 2",
+      "url": "https://example.com/2"
+    }
+  ],
+  "feedId": "test-feed",
+  "lastUpdated": "2026-02-14T06:10:47.402Z",
+  "primaryUrl": "https://example.com",
+  "schemaVersion": 1,
+  "title": "Test Feed"
+}
