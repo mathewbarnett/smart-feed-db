@@ -9,13 +9,12 @@
       "id": "2",
       "title": "Entry 2",
       "url": "https://example.com/2"
-    }
+    },
     {
       "id": "3",
       "title": "Entry 3",
       "url": "https://example.com/3"
     }
-
   ],
   "feedId": "test-feed",
   "lastUpdated": "2026-02-14T06:17:47.402Z",
