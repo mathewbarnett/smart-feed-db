@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "feeds": [
+    {
+      "feedId": "test-feed",
+      "title": "Test Feed",
+      "url": "feeds/test-feed.json",
+      "lastUpdated": "2026-02-14T06:10:47.402Z"
+    }
+  ]
+}
