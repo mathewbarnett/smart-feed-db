@@ -5,6 +5,11 @@
       "feedId": "test-feed",
       "title": "Test Feed",
       "url": "../../../../../feeds/test-feed.json"
+    },
+    {
+      "feedId": "test-feed-2",
+      "title": "Test Feed-2",
+      "url": "../../../../../feeds/test-feed-2.json"
     }
   ]
 }
