@@ -1,7 +1,62 @@
 {
-  "entries": [],
+  "entries": [
+    {
+      "chapterNumber": 1,
+      "id": "1771115377369",
+      "title": "Read Kami-Sama Ga Mitenai Kara - Chapter 1 | MangaBuddy",
+      "url": "https://mangabuddy.com/kami-sama-ga-mitenai-kara/chapter-1"
+    },
+    {
+      "chapterNumber": 2,
+      "id": "1771115381914",
+      "title": "Read Kami-Sama Ga Mitenai Kara - Chapter 2 | MangaBuddy",
+      "url": "https://mangabuddy.com/kami-sama-ga-mitenai-kara/chapter-2"
+    },
+    {
+      "chapterNumber": 3,
+      "id": "1771115384292",
+      "title": "Read Kami-Sama Ga Mitenai Kara - Chapter 3 | MangaBuddy",
+      "url": "https://mangabuddy.com/kami-sama-ga-mitenai-kara/chapter-3"
+    },
+    {
+      "chapterNumber": 4,
+      "id": "1771115386854",
+      "title": "Read Kami-Sama Ga Mitenai Kara - Chapter 4 | MangaBuddy",
+      "url": "https://mangabuddy.com/kami-sama-ga-mitenai-kara/chapter-4"
+    },
+    {
+      "chapterNumber": 5,
+      "id": "1771115388694",
+      "title": "Read Kami-Sama Ga Mitenai Kara - Chapter 5 | MangaBuddy",
+      "url": "https://mangabuddy.com/kami-sama-ga-mitenai-kara/chapter-5"
+    },
+    {
+      "chapterNumber": 6,
+      "id": "1771115390455",
+      "title": "Read Kami-Sama Ga Mitenai Kara - Chapter 6 | MangaBuddy",
+      "url": "https://mangabuddy.com/kami-sama-ga-mitenai-kara/chapter-6"
+    },
+    {
+      "chapterNumber": 7,
+      "id": "1771115392326",
+      "title": "Read Kami-Sama Ga Mitenai Kara - Chapter 7 | MangaBuddy",
+      "url": "https://mangabuddy.com/kami-sama-ga-mitenai-kara/chapter-7"
+    },
+    {
+      "chapterNumber": 8,
+      "id": "1771115394066",
+      "title": "Read Kami-Sama Ga Mitenai Kara - Chapter 8 | MangaBuddy",
+      "url": "https://mangabuddy.com/kami-sama-ga-mitenai-kara/chapter-8"
+    },
+    {
+      "chapterNumber": 9,
+      "id": "1771115396387",
+      "title": "Read Kami-Sama Ga Mitenai Kara - Chapter 9 | MangaBuddy",
+      "url": "https://mangabuddy.com/kami-sama-ga-mitenai-kara/chapter-9"
+    }
+  ],
   "feedId": "test-feed-2",
-  "lastUpdated": "2026-02-14T15:10:00.000Z",
+  "lastUpdated": "2026-02-15T00:29:56.387Z",
   "primaryUrl": "https://example.com",
   "schemaVersion": 1,
   "title": "Test Feed 2"
