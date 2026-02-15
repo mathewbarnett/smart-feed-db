@@ -1,6 +1,6 @@
 {
   "id": "manga",
-  "genres": [
+  "children": [
     {
       "id": "action",
       "title": "Action",
