@@ -1,0 +1,10 @@
+{
+  "id": "comics",
+  "children": [
+    {
+      "id": "manga",
+      "title": "Manga",
+      "url": "interests/comics/manga.json"
+    }
+  ]
+}
