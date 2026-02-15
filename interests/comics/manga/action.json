@@ -1,0 +1,10 @@
+{
+  "id": "action",
+  "feeds": [
+    {
+      "feedId": "test-feed",
+      "title": "Test Feed",
+      "url": "../../../../../feeds/test-feed.json"
+    }
+  ]
+}
