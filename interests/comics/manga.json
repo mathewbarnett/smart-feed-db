@@ -1,0 +1,10 @@
+{
+  "id": "manga",
+  "genres": [
+    {
+      "id": "action",
+      "title": "Action",
+      "url": "interests/comics/manga/genres/action.json"
+    }
+  ]
+}
