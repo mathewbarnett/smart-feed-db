@@ -1,6 +1,6 @@
 {
   "id": "action",
-  "feeds": [
+  "children": [
     {
       "feedId": "test-feed",
       "title": "Test Feed",
