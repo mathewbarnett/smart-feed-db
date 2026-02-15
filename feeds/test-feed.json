@@ -1,29 +1,63 @@
 {
   "entries": [
     {
-      "id": "1",
-      "title": "Entry 1",
-      "url": "https://example.com/1"
+      "chapterNumber": 0,
+      "id": "1771118242771",
+      "title": "Read Sekai Saikyou no Assassin, isekai kizoku ni tensei suru - Chapter 0 | MangaBuddy",
+      "url": "https://mangabuddy.com/sekai-saikyou-no-assassin-isekai-kizoku-ni-tensei-suru/chapter-0"
     },
     {
-      "id": "2",
-      "title": "Entry 2",
-      "url": "https://example.com/2"
+      "chapterNumber": 1,
+      "id": "1771118269350",
+      "title": "Read Sekai Saikyou no Assassin, isekai kizoku ni tensei suru - Chapter 1 | MangaBuddy",
+      "url": "https://mangabuddy.com/sekai-saikyou-no-assassin-isekai-kizoku-ni-tensei-suru/chapter-1"
     },
     {
-      "id": "3",
-      "title": "Entry 3",
-      "url": "https://example.com/3"
+      "chapterNumber": 1.1,
+      "id": "1771118272569",
+      "title": "Read Sekai Saikyou no Assassin, isekai kizoku ni tensei suru - Chapter 1.1 | MangaBuddy",
+      "url": "https://mangabuddy.com/sekai-saikyou-no-assassin-isekai-kizoku-ni-tensei-suru/chapter-1-1"
     },
     {
-      "id": "4",
-      "title": "Entry 4",
-      "url": "https://example.com/4"
+      "chapterNumber": 1.2,
+      "id": "1771118274943",
+      "title": "Read Sekai Saikyou no Assassin, isekai kizoku ni tensei suru - Chapter 1.2 | MangaBuddy",
+      "url": "https://mangabuddy.com/sekai-saikyou-no-assassin-isekai-kizoku-ni-tensei-suru/chapter-1-2"
+    },
+    {
+      "chapterNumber": 2,
+      "id": "1771118277980",
+      "title": "Read Sekai Saikyou no Assassin, isekai kizoku ni tensei suru - Chapter 2 | MangaBuddy",
+      "url": "https://mangabuddy.com/sekai-saikyou-no-assassin-isekai-kizoku-ni-tensei-suru/chapter-2"
+    },
+    {
+      "chapterNumber": 2.1,
+      "id": "1771118282565",
+      "title": "Read Sekai Saikyou no Assassin, isekai kizoku ni tensei suru - Chapter 2.1 | MangaBuddy",
+      "url": "https://mangabuddy.com/sekai-saikyou-no-assassin-isekai-kizoku-ni-tensei-suru/chapter-2-1"
+    },
+    {
+      "chapterNumber": 2.2,
+      "id": "1771118284074",
+      "title": "Read Sekai Saikyou no Assassin, isekai kizoku ni tensei suru - Chapter 2.2 | MangaBuddy",
+      "url": "https://mangabuddy.com/sekai-saikyou-no-assassin-isekai-kizoku-ni-tensei-suru/chapter-2-2"
+    },
+    {
+      "chapterNumber": 3,
+      "id": "1771118285501",
+      "title": "Read Sekai Saikyou no Assassin, isekai kizoku ni tensei suru - Chapter 3 | MangaBuddy",
+      "url": "https://mangabuddy.com/sekai-saikyou-no-assassin-isekai-kizoku-ni-tensei-suru/chapter-3"
+    },
+    {
+      "chapterNumber": 3.1,
+      "id": "1771118287690",
+      "title": "Read Sekai Saikyou no Assassin, isekai kizoku ni tensei suru - Chapter 3.1 | MangaBuddy",
+      "url": "https://mangabuddy.com/sekai-saikyou-no-assassin-isekai-kizoku-ni-tensei-suru/chapter-3-1"
     }
   ],
   "feedId": "test-feed",
-  "lastUpdated": "2026-02-14T15:10:00.000Z",
-  "primaryUrl": "https://example.com",
+  "lastUpdated": "2026-02-15T01:18:07.690Z",
+  "primaryUrl": "https://mangabuddy.com/sekai-saikyou-no-assassin-isekai-kizoku-ni-tensei-suru",
   "schemaVersion": 1,
   "title": "Test Feed"
 }
