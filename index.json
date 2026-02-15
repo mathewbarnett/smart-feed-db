@@ -6,6 +6,12 @@
       "title": "Test Feed",
       "url": "feeds/test-feed.json",
       "lastUpdated": "2026-02-14T12:48:35.731Z"
+    },
+    {
+      "feedId": "test-feed-2",
+      "title": "Test Feed 2",
+      "url": "feeds/test-feed-2.json",
+      "lastUpdated": "..."
     }
   ]
 }
